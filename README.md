@@ -12,7 +12,7 @@ This Tableau project demonstrates comprehensive data visualization skills throug
 
 ## 📊 Live Dashboard
 
-[![Tableau Public](https://img.shields.io/badge/View_Interactive_Dashboard-627CFF?style=for-the-badge&logo=tableau&logoColor=white)](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[![Tableau Public](https://img.shields.io/badge/View_Interactive_Dashboard-627CFF?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/willie.conway2396/viz/WorldHappinessReport_17379615647750/Story1)
 
 *Note: Replace with your actual Tableau Public link*
 
