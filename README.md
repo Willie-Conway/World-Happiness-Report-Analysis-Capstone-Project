@@ -1,6 +1,6 @@
 # 📊 World Happiness Report Analysis - Tableau Dashboard Project
 
-![World Happiness Report Analysis - Tableau Dashboard](https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/7f09e917801c775f628cda5400da5d258138c9d8/World-Happiness-Report-Tableau/Screenshots/World%20Happiness%20Report%20Analysis%20-%20Tableau%20Dashboard.gif)
+![SkillUP](https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/19ab42e39f5dc8c3901206d9ba57ec7611d7e993/World-Happiness-Report-Tableau/Screenshots/SKTedtech.png)
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge&logo=plotly&logoColor=white)
@@ -9,6 +9,14 @@
 ![Healthcare Analytics](https://img.shields.io/badge/Healthcare_Analytics-3498DB?style=for-the-badge)
 
 ## 🎯 Project Overview
+<p float="left">
+    <img src="https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/09b60674bdbbdd258806f26c996fb743590bce66/World-Happiness-Report-Tableau/Screenshots/Dashboard1_Happiness_Overview.png" width="300" />
+    <img src="https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/09b60674bdbbdd258806f26c996fb743590bce66/World-Happiness-Report-Tableau/Screenshots/Dashboard2_GDP_Effect.png" width="300" />
+    <img src="https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/09b60674bdbbdd258806f26c996fb743590bce66/World-Happiness-Report-Tableau/Screenshots/Dashboard3_Factors_Most_Happy.png" width="300" />
+    <img src="https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/09b60674bdbbdd258806f26c996fb743590bce66/World-Happiness-Report-Tableau/Screenshots/Dashboard4_Factors_Least_Happy.png" width="300" />
+    <img src="https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/09b60674bdbbdd258806f26c996fb743590bce66/World-Happiness-Report-Tableau/Screenshots/Story_Final_Presentation.png" width="300" />
+    <img src="https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/09b60674bdbbdd258806f26c996fb743590bce66/World-Happiness-Report-Tableau/Screenshots/World%20Happiness%20Report%20Analysis%20-%20Tableau%20Dashboard.gif" width="300" />
+</p>
 
 This Tableau project demonstrates comprehensive data visualization skills through an analysis of global happiness data from 2015-2023. As a BI/Data Analyst for a healthcare consultancy firm, I investigated how demographic, regional, and economic characteristics influence quality of life across countries worldwide.
 
