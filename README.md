@@ -1,5 +1,7 @@
 # 📊 World Happiness Report Analysis - Tableau Dashboard Project
 
+![World Happiness Report Analysis - Tableau Dashboard](https://github.com/Willie-Conway/World-Happiness-Report-Analysis-Capstone-Project/blob/7f09e917801c775f628cda5400da5d258138c9d8/World-Happiness-Report-Tableau/Screenshots/World%20Happiness%20Report%20Analysis%20-%20Tableau%20Dashboard.gif)
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge&logo=plotly&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Interactive_Dashboard-008DE4?style=for-the-badge&logo=dash&logoColor=white)
